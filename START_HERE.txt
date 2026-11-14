@@ -1,0 +1,14 @@
+CELESTIAL BAYMAX - WINDOWS / SQLITE
+
+1. Extract the complete ZIP into a new writable local folder.
+2. Double-click setup_windows.cmd (once).
+3. Double-click start_windows.cmd (every time you want to use the app).
+4. Browser address: http://127.0.0.1:8081
+5. Create your local owner passphrase when asked.
+
+Keep the terminal open. Press Ctrl+C to stop.
+Your records are in data/celestial-baymax.sqlite. Do not delete the data folder.
+
+No MySQL server, Python or npm installation step is needed to run the supplied build.
+Setup downloads official Node.js 24 LTS if a compatible Node.js is not installed.
+See README.md for troubleshooting and rebuilding after source changes.
