@@ -1,0 +1,27 @@
+{
+  "mission": "Lunar Gateway demonstration",
+  "records": [
+    {
+      "crew_name": "Maya Chen",
+      "observed_at": "2026-11-10T07:30:00Z",
+      "heart_rate": 72,
+      "spo2": 98,
+      "sleep_hours": 7.4,
+      "stress": 3,
+      "fatigue": 3,
+      "exercise_minutes": 45,
+      "context": "rest"
+    },
+    {
+      "crew_name": "Diego Ramos",
+      "observed_at": "2026-11-10T07:30:00Z",
+      "heart_rate": 84,
+      "spo2": 97,
+      "sleep_hours": 5.2,
+      "stress": 6,
+      "fatigue": 7,
+      "exercise_minutes": 15,
+      "context": "rest"
+    }
+  ]
+}

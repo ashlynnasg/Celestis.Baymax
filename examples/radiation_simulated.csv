@@ -1,0 +1,2 @@
+crewId,kind,observedAt,sourceKind,startAt,quantity,value,unit,component,scope,location,instrument,note
+crew-03,radiation,2026-11-13T10:00:00Z,simulated,2026-11-13T09:00:00Z,dose_equivalent,0.02,mSv,neutron,area,Demo habitat,Fictional detector,Synthetic example; not CANS data

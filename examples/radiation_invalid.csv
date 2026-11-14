@@ -1,0 +1,2 @@
+crewId,kind,observedAt,sourceKind,startAt,quantity,value,unit,scope,location
+crew-03,radiation,2026-11-13T10:00:00Z,simulated,2026-11-13T11:00:00Z,dose_equivalent,1,Gy,area,Demo

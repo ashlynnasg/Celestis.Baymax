@@ -1,0 +1,5 @@
+crew_id,observed_at,heart_rate,spo2,sleep_hours,stress,fatigue,exercise_minutes,vision,context,source
+crew-01,2026-11-09T07:30:00Z,71,98,7.5,3,3,45,,rest,Crew daily log (example)
+crew-01,2026-11-10T07:30:00Z,74,97,7.2,4,4,40,,rest,Crew daily log (example)
+crew-02,2026-11-10T07:30:00Z,83,97,5.4,6,7,15,,rest,Crew daily log (example)
+crew-02,2026-11-10T08:00:00Z,,,,,,,no_change,,Crew vision check (example)

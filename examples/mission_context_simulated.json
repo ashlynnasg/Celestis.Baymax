@@ -1,0 +1,20 @@
+[
+  {
+    "crewId": "crew-03",
+    "kind": "context",
+    "observedAt": "2026-11-13T10:00:00Z",
+    "sourceKind": "simulated",
+    "phase": "transit",
+    "gravity": "microgravity",
+    "location": "Demo habitat",
+    "sleepQuality": "poor",
+    "scheduleChanged": "yes",
+    "bedtime": "2026-11-12T23:00:00Z",
+    "wakeTime": "2026-11-13T04:00:00Z",
+    "exerciseType": "resistive exercise",
+    "plannedSessionCompleted": "no",
+    "symptom": "Reported tiredness",
+    "symptomOnset": "2026-11-13T04:00:00Z",
+    "symptomChange": "ongoing"
+  }
+]
