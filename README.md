@@ -109,4 +109,5 @@ Note: Keep the terminal window open while using the application.
 🏆 NASA Space Apps Challenge 2026
 
 Team: Celestial
+
 Challenge: Create Health Monitoring Software for Astronauts on Space Mission
